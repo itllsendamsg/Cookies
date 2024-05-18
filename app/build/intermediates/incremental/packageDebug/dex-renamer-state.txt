@@ -1,0 +1,7 @@
+#Wed Apr 12 00:44:51 CEST 2017
+base.0=C\:\\LandMStorage\\AndroidStudio\\AndroidStudioProjects\\Cookies\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_de9fc0443b84222f320c0412b25ce567dea4a69c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\LandMStorage\\AndroidStudio\\AndroidStudioProjects\\Cookies\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0776a511916b1614c31adf8800368e9365b5c7ee\\classes.dex
+base.1=C\:\\LandMStorage\\AndroidStudio\\AndroidStudioProjects\\Cookies\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0776a511916b1614c31adf8800368e9365b5c7ee
+file.0=C\:\\LandMStorage\\AndroidStudio\\AndroidStudioProjects\\Cookies\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_de9fc0443b84222f320c0412b25ce567dea4a69c\\classes.dex
